@@ -1,0 +1,16 @@
+/* BASE STYLES */
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: #1b1b1b;
+    color: #d2e0e0;
+}
+
+/* END OF BASE STYLES */
+
